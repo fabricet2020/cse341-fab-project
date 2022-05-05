@@ -1,0 +1,19 @@
+[{
+    "firstName": "Fabrice",
+    "lastName": "Banyingela",
+    "email": "tshiyoyi@gmail.com",
+    "favoriteColor": "blue",
+    "birthday": "October 14, 1980"
+},{
+    "firstName": "Alain",
+    "lastName": "Ngandu",
+    "email": "alino@gmail.com",
+    "favoriteColor": "blue",
+    "birthday": "May 20, 1986"
+},{
+    "firstName": "Daniel",
+    "lastName": "Nimi",
+    "email": "daniel@byui.edu",
+    "favoriteColor": "yellow",
+    "birthday": "August 13, 1989"
+}]

@@ -4,9 +4,9 @@ const contactsController = require('../controllers/contacts');
 
 routes.get('/', contactsController.getAllData);
 
-routes.get('/:id', contactsController.getById);
-
 routes.post('/', contactsController.addContact);
+
+routes.get('/:id', contactsController.getById);
 
 routes.put('/:id', contactsController.updateContact);
 
