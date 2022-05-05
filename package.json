@@ -1,7 +1,7 @@
 {
   "name": "project-01",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000C\u0000S\u0000E\u00003\u00004\u00001\u0000-\u00000\u00001\u0000\r\u0000 \u0000",
+  "description": "Project 01 - Personal Assignment",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeCKT/CSE341-01.git"
+    "url": "git+https://fabricet2020/cse341-fab-project.git"
   },
-  "author": "Daniel Eckton",
+  "author": "FT Banyingela",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DeCKT/CSE341-01/issues"
+    "url": "https://fabricet2020/cse341-fab-project/issues"
   },
-  "homepage": "https://github.com/DeCKT/CSE341-01#readme",
+  "homepage": "https://fabricet2020/cse341-fab-project1#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
